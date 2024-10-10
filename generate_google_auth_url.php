@@ -1,8 +1,8 @@
 <?php
 require_once 'vendor/autoload.php';
 
-$clientID = 'email auth';
-$clientSecret = 'password mue';
+$clientID = '933379690745-04auqcdqbttk2sfplrhr4bq1ues1hkp6.apps.googleusercontent.com';
+$clientSecret = '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';
 $redirectUri = 'http://localhost/mindsoothe(1)/google_callback.php';
 
 $client = new Google_Client();
